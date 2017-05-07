@@ -1,0 +1,3 @@
+This project's goal is to provide code that can be used to search through files which
+have chess games in algebraic notation stored in them(like they can be obtained by
+for example lichess.org). Ultimately you should be able to take the algebraic notation of a chess game until a certain move and the file which has chess games stored in it and let the program tell you which of these games have exactly the opening moves that you specified.
